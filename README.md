@@ -1,9 +1,7 @@
 <h1 align="center">
   Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">, I'm Mohammed Hossam
 </h1>
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=9155C5&center=true&vCenter=true&width=435&lines=......A+dedicated+frontend+developer+from+Egypt.........." alt="Typing Animation" />
-</p>
+<h3 align="center">A dedicated frontend developer from Egypt.</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mohammedhossam1&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
