@@ -44,5 +44,5 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7BE3A&width=435&lines=Frontend+Developer;React+%7C+Next.js+%7C+TypeScript;Building+Awesome+UIs" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9155C5&width=435&lines=Frontend+Developer;React+%7C+Next.js+%7C+TypeScript;Building+Awesome+UIs" alt="Typing SVG" />
 </p>
