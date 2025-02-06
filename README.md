@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Typescript**
 
-- 👨‍💻 All of my projects are available at [mohammedhossam.vercel.app](mohammedhossam.vercel.app)
+- 👨‍💻 All of my projects are available at [https://mohammedhossam.vercel.app](https://mohammedhossam.vercel.app)
 
 - 💬 Ask me about **React or Nextjs**
 
