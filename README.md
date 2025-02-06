@@ -1,7 +1,9 @@
 <h1 align="center">
   Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">, I'm Mohammed Hossam
 </h1>
-<h3 align="center">A dedicated frontend developer from Egypt.</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F7BE3A&center=true&vCenter=true&width=435&lines=A+dedicated+frontend+developer+from+Egypt." alt="Typing Animation" />
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mohammedhossam1&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
@@ -20,8 +22,6 @@
 - 💬 Ask me about **React, Next.js, Tailwind, Framer Motion**
 - 👨‍💻 Check out my portfolio at [mohammedhossam.vercel.app](https://mohammedhossam.vercel.app)
 - 📫 Reach me at **mohammedhossam199998@gmail.com**
-- 🎮 My favorite game:  
-  ![Counter-Strike](https://img.shields.io/badge/Counter_Strike-000000?style=for-the-badge&logo=counter-strike&logoColor=white)
 
 ---
 
@@ -32,20 +32,6 @@
 
 ---
 
-### 📊 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammedhossam1&layout=compact&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohammedhossam1&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohammedhossam1&theme=tokyonight" />
-</p>
-
----
 
 ### 🤝 Connect with Me:
 <p align="center">
@@ -59,7 +45,6 @@
 
 ---
 
-### 🎨 Fun Animation:
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7BE3A&width=435&lines=Frontend+Developer;React+%7C+Next.js+%7C+TypeScript;Building+Awesome+UIs" alt="Typing SVG" />
 </p>
