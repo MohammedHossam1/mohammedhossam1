@@ -13,6 +13,15 @@
 </p>
 
 ---
+### 🤝 Connect with Me:
+<p align="center">
+  <a href="https://linkedin.com/in/mohammed-hossam-459b68291/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://fb.com/muhamedhoss" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+</p>
 
 ### 🚀 About Me:
 - 🔭 I’m currently working on [Jomlah project](http://shopone.serv5.com.eg/)
@@ -31,15 +40,7 @@
 ---
 
 
-### 🤝 Connect with Me:
-<p align="center">
-  <a href="https://linkedin.com/in/mohammedhossam" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://fb.com/muhamedhoss" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
-  </a>
-</p>
+
 
 ---
 
