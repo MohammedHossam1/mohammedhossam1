@@ -4,7 +4,7 @@
 <h3 align="center">A dedicated frontend developer from Egypt.</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mohammedhossam1&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=mohammedhossam1&label=Profile%20views&color=3F4B00&style=flat" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/mohammedhossam1?label=Followers&style=social" alt="GitHub Followers">
 </p>
 
