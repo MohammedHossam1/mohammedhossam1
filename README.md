@@ -1,49 +1,49 @@
-<h1 align="center">
-  Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">, I'm Mohammed Hossam
-</h1>
-<h3 align="center">A dedicated frontend developer from Egypt.</h3>
+<h2 align="left">Hi 👋! My name is Mohammed Hossam  and I'm a Frontend developer</h2>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mohammedhossam1&label=Profile%20views&color=3F4B00&style=flat" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/mohammedhossam1?label=Followers&style=social" alt="GitHub Followers">
-</p>
+###
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mohammedhossam1&theme=onedark&no-bg=true&margin-w=15" alt="Trophies">
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
----
-### 🤝 Connect with Me:
-<p align="center">
-  <a href="https://linkedin.com/in/mohammed-hossam-459b68291/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://fb.com/muhamedhoss" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
-  </a>
-</p>
+###
 
-### 🚀 About Me:
-- 🔭 I’m currently working on [Jomlah project](http://shopone.serv5.com.eg/)
-- 🌱 I’m currently learning **TypeScript**
-- 💬 Ask me about **React, Next.js, Tailwind, Framer Motion**
-- 👨‍💻 Check out my portfolio at [mohammedhossam.vercel.app](https://mohammedhossam.vercel.app)
-- 📫 Reach me at **mohammedhossam199998@gmail.com**
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
----
+###
 
-### 🛠️ Languages & Tools:
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,ts,react,nextjs,git,figma,firebase" alt="Skills" />
-</p>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+</div>
 
----
+###
 
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+</div>
 
+###
 
+<br clear="both">
 
----
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9155C5&width=435&lines=Frontend+Developer;React+%7C+Next.js+%7C+TypeScript;Building+Awesome+UIs" alt="Typing SVG" />
-</p>
+###
